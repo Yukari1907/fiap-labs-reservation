@@ -35,23 +35,23 @@ python main.py
 
 # Funcionalidades
 1 - Autenticação
-Login com nome, usuário e senha
-Controle de sessão do usuário
+- Login com nome, usuário e senha
+- Controle de sessão do usuário
 
 2 - Reserva de Laboratórios
-Criação de reservas
-Validação de formato de data (DD/MM/AAAA)
-Verificação de conflitos (mesmo lab, data e horário)
+- Criação de reservas
+- Validação de formato de data (DD/MM/AAAA)
+- Verificação de conflitos (mesmo lab, data e horário)
 
 3 - Consulta de Reservas
-Listagem das reservas do usuário logado
+- Listagem das reservas do usuário logado
 
 4 - Cancelamento
-Cancelamento de reserva específica
-Confirmação antes da exclusão
+- Cancelamento de reserva específica
+- Confirmação antes da exclusão
 
 5 - Persistência de Dados
-Armazenamento em arquivo reservas.json
+- Armazenamento em arquivo reservas.json
 
 # Demonstração
 (INSERIR GIF AQUI)
