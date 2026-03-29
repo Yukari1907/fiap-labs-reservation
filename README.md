@@ -54,11 +54,11 @@ python main.py
 - Armazenamento em arquivo reservas.json
 
 # Demonstração
-(INSERIR GIF AQUI)
+https://youtu.be/u_TFjun9e1M
 
 ## 👨‍💻 Integrantes
 - Raissa Yukari Senoi - RM: 558120 - 3ECR
 
 ## 🔗 Links
 - Miro:
-- GitHub:
+- GitHub: https://github.com/Yukari1907/fiap-labs-reservation.git
