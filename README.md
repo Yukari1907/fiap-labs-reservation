@@ -60,5 +60,5 @@ https://youtu.be/u_TFjun9e1M
 - Raissa Yukari Senoi - RM: 558120 - 3ECR
 
 ## 🔗 Links
-- Miro:
+- Miro: https://miro.com/app/board/uXjVGqoDw-8=/?share_link_id=896603449831
 - GitHub: https://github.com/Yukari1907/fiap-labs-reservation.git
