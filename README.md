@@ -60,6 +60,6 @@ https://youtu.be/u_TFjun9e1M
 - Raissa Yukari Senoi - RM: 558120 - 3ECR
 
 ## 🔗 Links
-- Miro: https://miro.com/app/board/uXjVGqoDw-8=/?share_link_id=118509257904
-- https://miro.com/welcomeonboard/VWxJcWNyRUVSUEtlQXFmSWRETm53ZVZoQjF2emhNcEtXMjNvZGY5WUhLVVpBaFlYdWpReTFmNXJGZnE2eW1yQlNndTZqSkdaV2JCT250WllKc2FRWEFHS0tVcDliVnpUUTJhNUJMa05Zc3ZGN0FqeG1RN01wTUFqbGpDQkRiUDN0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=927432953024
+- Miro: https://miro.com/app/board/uXjVGqoDw-8=/?share_link_id=528838275735
+- https://miro.com/welcomeonboard/VWxJcWNyRUVSUEtlQXFmSWRETm53ZVZoQjF2emhNcEtXMjNvZGY5WUhLVVpBaFlYdWpReTFmNXJGZnE2eW1yQlNndTZqSkdaV2JCT250WllKc2FRWEFHS0tVcDliVnpUUTJhNUJMa05Zc3VFWm8xb0Y3TEJJVjRkUGdXTm5oOUFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=218907837744
 - GitHub: https://github.com/Yukari1907/fiap-labs-reservation.git
